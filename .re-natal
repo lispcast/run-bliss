@@ -1,0 +1,14 @@
+{
+  "name": "RunBliss",
+  "interface": "reagent6",
+  "androidHost": "localhost",
+  "iosHost": "localhost",
+  "envRoots": {
+    "dev": "env/dev",
+    "prod": "env/prod"
+  },
+  "modules": [],
+  "imageDirs": [
+    "images"
+  ]
+}
