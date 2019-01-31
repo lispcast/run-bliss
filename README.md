@@ -9,7 +9,15 @@ Code to accompany the [Mobile App in One Hour lesson][course], part of
 
 ## Usage
 
+Note: This repo requires Java 8.
+
+You will need to install re-natal:
+
+```bash
+$CMD npm install re-natal -g
 ```
+
+```bash
 $CMD re-natal use-figwheel
 $CMD lein figwheel ios
 ```
